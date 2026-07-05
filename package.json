@@ -1,0 +1,19 @@
+{
+  "name": "@bypento/paint-h1-red",
+  "version": "1.0.0",
+  "description": "A simple package that turns all H1 elements red.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "keywords": ["dom", "css", "h1", "color", "red"],
+  "author": "bypento",
+  "license": "MIT"
+}
+
