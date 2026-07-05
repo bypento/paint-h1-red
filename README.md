@@ -4,7 +4,7 @@
 
 A tiny utility to turn all `<h1>` tags red.
 
-🔗 **[View on npm](https://www.npmjs.com/package/@bypento/paint-h1-red)** | **[View on GitHub](https://github.com)**
+🔗 **[View on npm](https://www.npmjs.com/package/@bypento/paint-h1-red)**
 
 ## Installation
 
